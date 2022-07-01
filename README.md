@@ -1,4 +1,5 @@
 
+
 # Hi, I'm Abdul Samad! 👨🏼‍💻
 
 
@@ -24,6 +25,15 @@ then
 python main.py
 ```
 
+## FAQ
+
+#### How to use?
+
+Try not to open any word file in the background while using the Next button
+and not use the mouse while sending slips to WhatsApp
+the numbers already exist are dummy. Please enter a valid number to use.
+
+
 ## Features
 
 - Light colors
@@ -35,4 +45,6 @@ python main.py
 ## Preview
 
 [App Screenshots](https://github.com/asamadsid/salary-managment/tree/main/preview)
+
+
 
