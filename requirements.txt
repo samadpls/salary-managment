@@ -47,3 +47,7 @@ virtualenv==20.14.1
 wcwidth==0.2.5
 yarg==0.1.9
 popler
+docx2pdf
+pywhatkit
+pdf2image
+docxtpl
