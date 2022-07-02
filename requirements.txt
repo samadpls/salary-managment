@@ -46,7 +46,7 @@ urllib3==1.26.9
 virtualenv==20.14.1
 wcwidth==0.2.5
 yarg==0.1.9
-popler
+python-poppler
 docx2pdf
 pywhatkit
 pdf2image
