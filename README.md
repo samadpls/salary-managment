@@ -5,7 +5,7 @@
 
 # Salary Management
 
-The Salary Management system can store employees' data in a sqlite3 database. By selecting any employee record, it can send a salary slip to their Whatsapp number.
+Salary Management is my second-semester project, led by myself. This project uses SQLite for the database and Tkinter(python) for GUI. Easy to use by any age group. Design in a way that only HR on the company can access it and have a right to add a new member or remove any member from the database. Selecting any employee name and pressing the NEXT button will redirect to the salary-slip page, The HR can directly send that slip to the employee's Whatsapp Number.
 
 # Deployment
 To run this program you need to run the following command in your cmd where the folder is located
