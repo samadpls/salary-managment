@@ -41,10 +41,37 @@ the numbers already exist are dummy. Please enter a valid number to use.
 - Database for storing data
 - Whastapp the ```.png``` Salary Slip
 
+<table border="0">
+ <h1>Preview</h1>
+        <tr>
+            <td><b style="font-size:30px">Login Page</b></td>
+            <td><b style="font-size:30px">Add new member</b></td>
+         </tr>
+<td>
 
-## Preview
+<img src='preview/firstpage.png' height=150>
 
-[App Screenshots](https://github.com/asamadsid/salary-managment/tree/main/preview)
+</td>
+    <td>
 
+<img src='preview/addpage.png' height=150>
+</td>
+    </table>
+<table border="0">
+    <tr>
+        <td><b style="font-size:30px">All employee data</b></td>
+        <td><b style="font-size:30px">Salary Slip page</b></td>
+     </tr>
+     <tr>
+<td>
+
+<img src='preview/datapage.png' height=150>
+
+</td>
+    <td>
+
+<img src='preview/lastpage.png' height=150>
+</td>
+    </table>
 
 
