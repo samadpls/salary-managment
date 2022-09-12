@@ -24,9 +24,13 @@ pip install -r requirements.txt
 ```
 then
 ```
+cd sourcecode
+```
+```
 python main.py
 ```
-
+### Username= admin
+### Password= 1234
 ## FAQ
 
 #### How to use⁇
