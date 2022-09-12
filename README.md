@@ -14,6 +14,8 @@ To run this program you need to run the following command in your cmd where the 
 ## Environment Variables
 ```
 py -m venv venv
+```
+```
 venv\Scripts\activate
 ```
 
