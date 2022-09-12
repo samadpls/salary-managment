@@ -49,6 +49,7 @@ the numbers already exist are dummy. Please enter a valid number to use.
 
 <table border="0">
  <h1>Preview</h1>
+ <a href='https://www.linkedin.com/posts/samadpls_management-project-database-activity-6949307050862493696-qcpc?utm_source=share&utm_medium=member_desktop'> Video tutorial </a>
         <tr>
             <td><b style="font-size:30px">Login Page</b></td>
             <td><b style="font-size:30px">Add new member</b></td>
@@ -56,6 +57,7 @@ the numbers already exist are dummy. Please enter a valid number to use.
 <td>
 
 <img src='preview/firstpage.png' height=150>
+
 
 </td>
     <td>
