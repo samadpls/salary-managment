@@ -2,4 +2,4 @@ docx2pdf==0.1.8
 docxtpl==0.16.0
 pdf2image==1.16.0
 Pillow==9.2.0
-pywhatkit==5.4
+pywhatkit
