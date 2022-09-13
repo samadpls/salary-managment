@@ -2,4 +2,4 @@ venv/
 __pycache__/
 .git/
 PyWhatKit_DB/
-../poppler-0.68.0/
+../poppler-0.68.0
