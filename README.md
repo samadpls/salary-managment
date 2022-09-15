@@ -3,7 +3,7 @@
 # Hi, I'm Abdul Samad! 👨🏼‍💻
 
 
-# Salary Management
+# Salary Management..
 
 Salary Management is my second-semester project, led by myself. This project uses SQLite for the database and Tkinter(python) for GUI. Easy to use by any age group. Design in a way that only HR on the company can access it and have a right to add a new member or remove any member from the database. Selecting any employee name and pressing the NEXT button will redirect to the salary-slip page, The HR can directly send that slip to the employee's Whatsapp Number.
 
