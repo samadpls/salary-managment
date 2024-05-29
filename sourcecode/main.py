@@ -94,10 +94,10 @@ class Salaryslip:
         os.remove(pdf_file)
         
         #adding images
-        logo=PhotoImage(file='images\logo.png')
+        logo=PhotoImage(file='images/logo.png')
         Label(self.window4,image=logo,bg='#FDF0D5').place(x=0,y=0)
 
-        img1=PhotoImage(file='images\last.png')
+        img1=PhotoImage(file='images/last.png')
         Label(self.window4,image=img1,bg='#FDF0D5').place(x=60,y=100)
         preview=Label(self.window4,text='Preview',fg='#780000',bg='#FDF0D5',font=('Helvetica',24,'bold'))
         preview.place(x=470,y=5)
@@ -128,16 +128,16 @@ class Employeeinfo:
         self.gender=''
 
         self.window=Tk()
-        self.window.iconbitmap('icon.ico')
+        # self.window.iconbitmap('icon.ico') // commit it this cause error
         self.mainscreen()
     def mainscreen(self):
         self.window.title('Employee info')
         self.window.geometry('925x500+300+200')
         self.window.configure(bg='#FDF0D5')
         self.window.resizable(0,0)
-        img1=PhotoImage(file=r'images\addmember.png')
+        img1=PhotoImage(file=r'images/addmember.png')
         Label(self.window,image=img1,bg='#FDF0D5').place(x=60,y=100)
-        logo=PhotoImage(file='images\logo.png')
+        logo=PhotoImage(file='images/logo.png')
         Label(self.window,image=logo,bg='#FDF0D5').place(x=0,y=0)
         self.sub_section()
 
@@ -273,7 +273,7 @@ class SearchEngine:
     '''set the data screen 
     '''
     self.window3=Tk()
-    self.window3.iconbitmap('icon.ico')
+    # self.window3.iconbitmap('icon.ico') // commit it this cause error
     self.mainscreen()
   def mainscreen(self):
     self.window3.title('Employee Data')
@@ -282,7 +282,7 @@ class SearchEngine:
     self.window3.configure(bg='#FDF0D5')
     self.window3.resizable(0,0)
   
-    logo=PhotoImage(file='images\logo.png')
+    logo=PhotoImage(file='images/logo.png')
     Label(self.window3,image=logo,bg='#FDF0D5').place(x=-10,y=-20)
     
 
@@ -301,7 +301,7 @@ class SearchEngine:
     reset_menu.add_command(label="Reset",command=self.Data)
     #creating data showing
     self.style=ttk.Style()
-    self.style.theme_use('vista')
+    # self.style.theme_use('vista') // commit it this cause error
     self.style.configure("Treeview",
     background='#FDF0D5',
     foreground='black',
@@ -571,7 +571,7 @@ class login:
         '''set the first screen 
         '''
         self.window1=Tk()
-        self.window1.iconbitmap('icon.ico')
+        # self.window1.iconbitmap('icon.ico')  // commit it this couse error
         self.mainscreen()
     def mainscreen(self):
         self.window1.title('Login')
@@ -579,9 +579,9 @@ class login:
         self.window1.geometry('925x500+300+200')
         self.window1.configure(bg='#FDF0D5')
         self.window1.resizable(0,0)
-        img1=PhotoImage(file='images\login1.png')
+        img1=PhotoImage(file='images/logo.png')
         Label(self.window1,image=img1,bg='#FDF0D5').place(x=480,y=70)
-        logo=PhotoImage(file='images\logo.png')
+        logo=PhotoImage(file='images/logo.png')
         Label(self.window1,image=logo,bg='#FDF0D5').place(x=0,y=0)
        
         
