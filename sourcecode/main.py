@@ -631,7 +631,7 @@ class login:
                 
 
 
-    #it will just delete the string as this function is called      
+    #it will just delete the string as this function is calleds      
     def on_enter(self,e):
         self.user.delete(0,END) 
     def on_leave(self,e):
